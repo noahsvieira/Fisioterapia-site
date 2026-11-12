@@ -1,6 +1,3 @@
-"""
-
-"""
 import cv2
 from PIL import Image
 from pathlib import Path
